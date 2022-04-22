@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 1,
+        "book_name" : "Right Under Our Nose",
+        "author" : "R. Giridharan"
+    },
+    {
+        "id" : 2,
+        "book_name" : "400 Days",
+        "author" : "Chetan Bhagat"
+    },
+    {
+        "id" : 3,
+        "book_name" : "The India Story",
+        "author" : "Bimal Jalan"
+    },
+    {
+        "id" : 4,
+        "book_name" : "Home in the World",
+        "author" : "Amartya Sen"
+    }
+]
